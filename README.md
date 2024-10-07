@@ -1,4 +1,4 @@
 # MasaiSchool
 This is My School
 <br>
-Author - Ashish Dadheech
+Author - Ashish (Appna College)
